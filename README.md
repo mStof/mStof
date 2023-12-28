@@ -3,7 +3,7 @@
 ## Sobre mim!
 <div>
   <img width=250 src="https://github.com/mStof/mStof/assets/137577094/910a4d52-303e-4711-af00-4616d4fa0a25">
-  <p><em>Somente um estudante de programação quero ser notado no mercado.</em></p>
+  <p><em>Somente um estudante de programação querendo ser notado.</em></p>
   <ul>
     <li>🎂 Idade: 15</li>
     <li>🌟 Signo: Touro</li>
