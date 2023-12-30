@@ -26,10 +26,15 @@
 ## Github status 
 
 <div>
+  <picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=mStof&show_icons=true&hide_border=true&hide_rank=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=mStof&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" media="(prefers-color-scheme: dark)"/>
   <img align=top src="https://github-readme-stats.vercel.app/api?username=mStof&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true">
+  </picture>
+
   <picture align="center">
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mStof&layout=compact&theme=tokyonight&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mStof&layout=compact&theme=gruvboax&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
