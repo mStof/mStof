@@ -22,7 +22,7 @@
   <img align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   <img align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />     
-  <img align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-line.svg" />
+  <img align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </div>
 
 ## Github status 
