@@ -5,10 +5,10 @@
   <img width=250 src="https://github.com/mStof/mStof/assets/137577094/910a4d52-303e-4711-af00-4616d4fa0a25">
   <p><em>Somente um estudante de programação querendo ser notado.</em></p>
   <ul>
-    <li>🎂 Idade: 15</li>
+    <li>🎂 Idade: 16</li>
     <li>🌟 Signo: Touro</li>
     <li>🔭 No momento estou na área de Front-End</li>
-    <li>🎓 Atualmente estou estudando React.js e TypeScript</li>
+    <li>🎓 Atualmente estou estudando React Native</li>
     <li>😄 Pronomes: Ele/Dele</li>            
   </ul>
 </div>
@@ -16,14 +16,17 @@
 ## Meus conhecimentos!!
 
 <div>
-  <img align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>          
-  <img align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>          
-  <img align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
-  <img align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />     
+  <img title="HTML5" align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>          
+  <img title="CSS3" align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>          
+  <img title="Javascript" align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
+  <img title="Typescript" align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img title="Next.JS" align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img title="React.JS" align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img title="Tailwind Css" align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img title="SCSS" align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+  <img title="Bootstrap" align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img title="Figma" align=top width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />   
+
 </div>
 
 ## Github status 
