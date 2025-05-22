@@ -5,7 +5,7 @@
   <img width=250 src="https://github.com/mStof/mStof/assets/137577094/910a4d52-303e-4711-af00-4616d4fa0a25">
   <p><em>Somente um estudante de programação querendo ser notado.</em></p>
   <ul>
-    <li>🎂 Idade: 16</li>
+    <li>🎂 Idade: 17</li>
     <li>🌟 Signo: Touro</li>
     <li>🔭 No momento estou na área de Front-End</li>
     <li>🎓 Atualmente estou estudando React Native</li>
